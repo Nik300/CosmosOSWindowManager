@@ -1,0 +1,60 @@
+{
+  "version": 2,
+  "dgSpecHash": "4in/0GFb+d5znMx1hy/43Ou8rSYp2niUqF6SxGh2km63gWDADHXnSfB7u9DNihVfgg0v5wl2f+UN8MtVqOTgyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nicol\\Documents\\projects\\BufferVGA\\BufferVGA\\BufferVGA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nicol\\.nuget\\packages\\cosmos.build\\0.1.0-localbuild20200708061311\\cosmos.build.0.1.0-localbuild20200708061311.nupkg.sha512",
+    "C:\\Users\\nicol\\.nuget\\packages\\cosmos.common\\0.1.0-localbuild20200708061311\\cosmos.common.0.1.0-localbuild20200708061311.nupkg.sha512",
+    "C:\\Users\\nicol\\.nuget\\packages\\cosmos.core\\0.1.0-localbuild20200708061311\\cosmos.core.0.1.0-localbuild20200708061311.nupkg.sha512",
+    "C:\\Users\\nicol\\.nuget\\packages\\cosmos.debug.kernel\\0.1.0-localbuild20200708061311\\cosmos.debug.kernel.0.1.0-localbuild20200708061311.nupkg.sha512",
+    "C:\\Users\\nicol\\.nuget\\packages\\cosmos.hal2\\0.1.0-localbuild20200708061311\\cosmos.hal2.0.1.0-localbuild20200708061311.nupkg.sha512",
+    "C:\\Users\\nicol\\.nuget\\packages\\cosmos.system2\\0.1.0-localbuild20200708061311\\cosmos.system2.0.1.0-localbuild20200708061311.nupkg.sha512",
+    "C:\\Users\\nicol\\.nuget\\packages\\il2cpu.api\\0.1.0-localbuild20200708061311\\il2cpu.api.0.1.0-localbuild20200708061311.nupkg.sha512",
+    "C:\\Users\\nicol\\.nuget\\packages\\microsoft.netcore.app\\2.0.9\\microsoft.netcore.app.2.0.9.nupkg.sha512",
+    "C:\\Users\\nicol\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.9\\microsoft.netcore.dotnetapphost.2.0.9.nupkg.sha512",
+    "C:\\Users\\nicol\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.9\\microsoft.netcore.dotnethostpolicy.2.0.9.nupkg.sha512",
+    "C:\\Users\\nicol\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.9\\microsoft.netcore.dotnethostresolver.2.0.9.nupkg.sha512",
+    "C:\\Users\\nicol\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.2\\microsoft.netcore.platforms.2.0.2.nupkg.sha512",
+    "C:\\Users\\nicol\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\nicol\\.nuget\\packages\\runtime.win-x86.microsoft.netcore.app\\2.0.9\\runtime.win-x86.microsoft.netcore.app.2.0.9.nupkg.sha512",
+    "C:\\Users\\nicol\\.nuget\\packages\\runtime.win-x86.microsoft.netcore.dotnetapphost\\2.0.9\\runtime.win-x86.microsoft.netcore.dotnetapphost.2.0.9.nupkg.sha512",
+    "C:\\Users\\nicol\\.nuget\\packages\\runtime.win-x86.microsoft.netcore.dotnethostpolicy\\2.0.9\\runtime.win-x86.microsoft.netcore.dotnethostpolicy.2.0.9.nupkg.sha512",
+    "C:\\Users\\nicol\\.nuget\\packages\\runtime.win-x86.microsoft.netcore.dotnethostresolver\\2.0.9\\runtime.win-x86.microsoft.netcore.dotnethostresolver.2.0.9.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "BufferVGA depends on Cosmos.Build (>= 0.1.0-localbuild20200605074103) but Cosmos.Build 0.1.0-localbuild20200605074103 was not found. An approximate best match of Cosmos.Build 0.1.0-localbuild20200708061311 was resolved.",
+      "libraryId": "Cosmos.Build",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.0",
+        ".NETCoreApp,Version=v2.0/cosmos"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "BufferVGA depends on Cosmos.Debug.Kernel (>= 0.1.0-localbuild20200605074103) but Cosmos.Debug.Kernel 0.1.0-localbuild20200605074103 was not found. An approximate best match of Cosmos.Debug.Kernel 0.1.0-localbuild20200708061311 was resolved.",
+      "libraryId": "Cosmos.Debug.Kernel",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.0",
+        ".NETCoreApp,Version=v2.0/cosmos"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "BufferVGA depends on Cosmos.System2 (>= 0.1.0-localbuild20200605074103) but Cosmos.System2 0.1.0-localbuild20200605074103 was not found. An approximate best match of Cosmos.System2 0.1.0-localbuild20200708061311 was resolved.",
+      "libraryId": "Cosmos.System2",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.0",
+        ".NETCoreApp,Version=v2.0/cosmos"
+      ]
+    }
+  ]
+}
